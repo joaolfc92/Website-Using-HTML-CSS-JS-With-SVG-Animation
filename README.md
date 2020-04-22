@@ -2,7 +2,7 @@
 
 HTML/CSS/JS
 
-* Ao clicar nos pontos uma linha grafica de % e preenchida, e um perfil novo e exibido, e o background e trocado
+* Ao clicar nos pontos uma linha grafica de % e preenchida, e um perfil novo e exibido, e o background e trocado.
 
 
 
